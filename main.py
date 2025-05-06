@@ -8,7 +8,7 @@ app = Flask(__name__)
 app.secret_key = 'clave-segura'
 app.permanent_session_lifetime = timedelta(minutes=1)
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 def responder_con_olivia(mensajes):
     try:
