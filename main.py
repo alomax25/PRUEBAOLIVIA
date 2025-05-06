@@ -74,7 +74,7 @@ Responder consultas sobre vacaciones, permisos, asistencia, compras internas y c
         conversation = [{"role": "system", "content": system_prompt}] + mensajes
 
         respuesta = openai.chat.completions.create(
-            model="gpt-4o",
+            model="gpt-3.5 turbo",
             messages=conversation,
             temperature=0.4,
             max_tokens=250  # puedes bajarlo a 250 si quieres aún más brevedad
