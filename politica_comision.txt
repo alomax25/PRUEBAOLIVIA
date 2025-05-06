@@ -1,0 +1,115 @@
+MEJORANDO NUESTRA PRODUCTIVIDAD
+
+Lo que no se define, no se puede medir.
+Lo que no se mide, no se puede mejorar.
+- William Thompson
+
+¿Qué es la productividad?
+La productividad impulsa a personas y organizaciones a desafiar límites y alcanzar objetivos.
+
+¿Por qué medir el desempeño?
+Permite evaluar la eficiencia de los trabajadores, identificar fortalezas y áreas de mejora.
+
+¿Para qué sirve la medición de indicadores?
+Es clave para la mejora continua, la toma de decisiones y una comunicación efectiva.
+
+PROPÓSITO:
+Incrementar ventas anuales en un 9.87%, mejorar IP comercial a 4, reducir costo de ventas 1%, disminuir 1 día de entrega y alcanzar rentabilidad del 4.2%. Fomentar habilidades en un ambiente laboral sano.
+
+OBJETIVO ÚNICO:
+No somos producto terminado. Todos los días crecemos y nos adaptamos.
+
+PRODUCTIVIDAD OLA - IP:
+El índice de productividad (IP) resume el cumplimiento de KPI's de gestión en un solo indicador, midiendo eficiencia real del local y colaborador.
+
+META DE PRODUCTIVIDAD:
+IP = 4
+
+DIRIGIDO A:
+✓ Asesores Comerciales
+✓ Optómetras
+✓ Fijos y volantes
+
+IP OPTÓMETRA:
+META 4 PUNTOS | TOTAL IP = 4.00
+- USD 50% → 2.00 puntos
+- TC 15% → 0.60
+- FP 10% → 0.40
+- Protocolo por video 5% → 0.20
+- Citas A.V. 10% → 0.40
+- Ventas Ola Plus 10% → 0.40
+
+IP ASESORES:
+META 4 PUNTOS | TOTAL IP = 4.00
+- USD 50% → 2.00
+- TC 15% → 0.60
+- FP 15% → 0.60
+- Citas A.V. 10% → 0.40
+- Ventas Ola Plus 10% → 0.40
+
+TABLA PARA PAGO DE COMISIONES:
+
+IP           % Cumpl.       % Aplicar Comisión
+> 3.8        > 95%          100%
+> 3.6        > 90%          95%
+> 3.2        > 80%          90%
+<= 3.2       <= 80%         80%
+
+SOBRECUMPLIMIENTO INDIVIDUAL:
+
+% Meta $        % Extra Comisión (IP > 3.8)
+>= 120%         +10%
+110% - 119.99%  +5%
+101% - 109.99%  +3%
+
+EJEMPLOS:
+
+IP: 4.00 → $300 * 100% = $300
+IP: 3.62 → $300 * 95% = $285
+IP: 3.30 → $300 * 90% = $270
+IP: 3.19 → $300 * 80% = $240
+
+SOBRECUMPLIMIENTO INDIVIDUAL:
+
+Meta $: 121%, IP > 3.8 → $300 + $30 = $330
+Meta $: 108%, IP = 3.6 → no aplica extra
+Meta $: 94%, IP = 3.81 → no aplica extra
+
+SOBRECUMPLIMIENTO LOCAL:
+
+Meta Local: 121%, IP > 3.8 → $330 + $33 = $363
+Meta Local: 103%, IP = 3.6 → no aplica extra
+Meta Local: 94%, IP = 4.00 → no aplica extra
+
+REGLAS / CONDICIONES:
+
+1. Comisiones dependen del IP individual.
+2. Aceleradores condicionados al IP.
+3. Incentivos Andes Visión ligados a IP.
+4. Se eliminan comisiones Ola Plus y Andes Visión, se mantiene incentivo Prepaid.
+5. Indicadores nuevos se actualizan en Kliente.
+6. IP no sobrepasa 4.0, pesos se ajustan.
+7. Si falta indicador, su peso pasa a ventas en $.
+8. IP afecta comisiones e incentivos.
+9. Comisiones de volantes según lugar de biometría.
+10. Sobrecumplimiento local según días trabajados.
+11. Aplica desde el 1 de junio de 2024.
+
+¿CÓMO LO HAREMOS?
+
+1. Monitoreo diario de indicadores - Herramienta Kliente
+2. Actualización de pizarras - Administrador POS
+3. Retroalimentación diaria
+4. Entrenamiento constante - Role play ventas
+
+RESPONSABLES:
+
+- Monitoreo POS diario: Kliente Coach
+- Resultados de colaboradores: Kliente Coach
+- Retroalimentación: Optómetra, Coordinadores, Jefes de Venta
+- Entrenamiento: Optómetras, Coordinadores, Jefes de Venta, Asesores
+
+CIERRE:
+
+Mejoras tu productividad, mejoras tus ingresos.
+Comprometidos en cambiar la forma de ver el mundo con una experiencia única.

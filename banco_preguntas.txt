@@ -1,0 +1,238 @@
+BANCO DE PREGUNTAS  
+POLÍTICAS DE DESARROLLO ORGANIZACIONAL – ÓPTICA LOS ANDES
+
+BIOMETRIKA
+
+¿Qué es D2MovilPlus?  
+	D2MovilPlus es una aplicación para gestionar permisos y registrar la asistencia laboral.
+
+¿Qué tipo de permisos puedo gestionar con D2MovilPlus?  
+		Existen 6 tipos de permisos:
+		1. Calamidad doméstica  
+		2. Gestiones personales  
+		3. Cita médica / reposo médico  
+		4. Licencia de maternidad / paternidad  
+		5. Licencia por fallecimiento del familiar  
+		6. Licencia por matrimonio  
+
+¿Cómo solicito un permiso a través de D2MovilPlus?  
+	1. Ingresar a la aplicación con usuario y contraseña  
+	2. Seleccionar “Solicitud de permisos y vacaciones”  
+	3. Completar el formulario con los datos requeridos  
+	4. Seleccionar “Adjuntar” para subir el documento justificativo  
+	5. Seleccionar “Solicitar / Grabar”  
+
+¿Qué información necesito para solicitar un permiso?  
+	Debes presentar documentos justificativos certificados, según el tipo de permiso.
+
+¿Puedo cancelar una solicitud de permiso?  
+	No, porque la aprobación está parametrizada directamente a la línea del jefe inmediato. Se recomienda revisar cuidadosamente los datos antes de enviar.
+
+¿Qué debo hacer si mi solicitud es rechazada?  
+	Debes revisar el motivo del rechazo, corregir la información y volver a solicitar.
+
+¿Cómo verifico el estado de mi solicitud?  
+	Dentro de la aplicación D2MovilPlus selecciona “Notificaciones”. También puedes ingresar a la página web, seleccionar “Favoritos” y luego “Ingreso y aprobación de permisos”.
+
+¿Qué debo hacer si sale un error al crear el permiso?  
+	El error puede deberse a un permiso ya generado o cargado a vacaciones. Verifica y reporta mediante Apolo.
+
+¿Qué hago si tengo problemas técnicos con D2MovilPlus?  
+	Reporta en Apolo siguiendo los pasos:
+		1. Catálogo de Servicios  
+		2. Desarrollo Organizacional  
+		3. Novedades en Biometría  
+		4. Llenar los datos correctamente para validación y resolución  
+
+¿Hay un límite en la cantidad de permisos?  
+	Sí, dependiendo del tipo de permiso solicitado.
+
+¿Puedo usar D2MovilPlus sin conexión a internet?  
+	Sí, D2MovilPlus permite un “modo offline” para ingresar marcaciones. Al volver la conexión, se debe seleccionar “Tienes # marcaciones almacenadas” y luego “Enviar”.
+
+¿Recibo notificaciones sobre mis solicitudes?  
+	Sí, puedes activar notificaciones para recibir actualizaciones.
+
+¿Qué hago si olvido mi contraseña de acceso?  
+	1. Digita tu ID en el campo de Usuario  
+	2. Digita tu cédula en el campo de Contraseña  
+	3. Selecciona “¿Olvidó su contraseña?”  
+	4. Recibirás un link en tu correo corporativo  
+	5. Ingresa al link y genera una nueva contraseña  
+
+¿Puedo generar una solicitud de vacaciones en Biometrika?  
+	No, Biometrika solo permite justificar permisos y registrar asistencia. Las vacaciones se gestionan mediante Twiins.
+
+POLÍTICA DE PERMISOS
+
+¿Qué tipos de licencias ofrece la empresa?  
+	Licencia de matrimonio, fallecimiento, maternidad/paternidad, permisos por enfermedad, calamidad doméstica y gestiones personales.
+
+¿Qué es la licencia de matrimonio y cuántos días se otorgan?  
+	Es un permiso de hasta 3 días laborables para el colaborador que contrae matrimonio.
+
+¿Qué ocurre con el sueldo en caso de ausencia por enfermedad?  
+	Si está justificada, la empresa cubre el 100 % los primeros 3 días.
+
+¿Y después de tres días de ausencia por enfermedad?  
+	La empresa paga el 25 %, y el resto debe ser cubierto por el IESS.
+
+¿Cuánto es la multa por atraso?  
+	$0,25 por minuto.
+
+¿Cuánto tiempo se concede por calamidad doméstica?  
+	Hasta 8 horas, según la situación.
+
+¿Qué situaciones aplican como calamidad doméstica?  
+	Emergencias médicas, hospitalización de hijos o cónyuge, y sucesos graves.
+
+¿Cuánto se permite por gestiones personales?  
+	Hasta 4 horas por permiso, 1 vez al mes. Los adicionales se descuentan de vacaciones.
+
+¿Cuánto tiempo otorga la licencia de maternidad?  
+	84 días, más 10 días adicionales en nacimientos múltiples.
+
+¿Y la licencia de paternidad?  
+	Hasta 10 días.
+
+¿Qué hacer si me roban el celular?  
+	Sube un ticket en Apolo para la regularización.
+
+¿Cómo subo el ticket en Apolo?  
+	1. Ingresa a https://apolo.opticalosandes.com.ec/otobo/customer.pl  
+	2. Catálogo de servicios  
+	3. Desarrollo Organizacional  
+	4. Novedades de Biometría  
+	5. Llena los datos y adjunta los respaldos correspondientes  
+		*Nota:* Se revisarán cámaras de seguridad. Plazo máximo de regularización: 15 días.
+
+¿Cuánto dura el permiso de lactancia?  
+	Hasta 15 meses tras finalizar la licencia de maternidad.
+
+¿Qué pasos debo seguir para justificar un permiso?  
+	Notificar a tu jefe inmediato y generarlo en Biometrika o D2MovilPlus.
+
+¿Qué pasa si no justifico adecuadamente un permiso?  
+	Se aplicarán sanciones, incluso descuentos en vacaciones.
+
+¿Qué notificación se requiere por ausencia?  
+	Debe informarse a su jefe inmediato por teléfono el mismo día.
+
+¿Qué multa aplica a administradores que no reportan ausencias?  
+	Multas desde $15 o hasta el 10 % de su remuneración.
+
+¿Qué situaciones no son consideradas como permisos válidos?  
+	Tráfico, clima, pico y placa, conciertos, fallas de alarma, problemas mecánicos.
+
+¿Cuánto es la multa por atrasos?  
+	$0,25 por minuto para personal comercial y administrativo.
+
+¿Cuál es el tiempo máximo de atraso permitido?  
+	Hasta 5 minutos. Debe recuperarse el mismo día.
+
+¿Qué hacer si un colaborador llega tarde por capacitación?  
+	Debe notificar para el registro manual.
+
+¿Qué se considera una falta grave?  
+	Tardanzas frecuentes o no justificar ausencias.
+
+¿Cuánto tiempo se permite por hospitalización del cónyuge?  
+	Hasta 3 días.
+
+¿Qué se necesita para permisos por calamidad doméstica?  
+	Justificación con documentación válida.
+
+¿Se puede solicitar licencia sin remuneración tras la maternidad?  
+	Sí, hasta 12 meses.
+
+¿Cómo se recuperan permisos no utilizados?  
+	Recuperación mínima de 1 hora diaria.
+
+¿Cómo documentar un permiso?  
+	Generar en Biometrika o D2MovilPlus y adjuntar justificativos.
+
+¿Con cuánto tiempo se notifica una licencia sin remuneración?  
+	Con al menos 15 días de anticipación.
+
+¿Cuántas horas de lactancia se otorgan?  
+	Hasta 6 horas diarias con horario especial.
+
+¿Qué eventos permiten hasta 4 horas de ausencia?  
+	Comparecencias o sucesos graves familiares.
+
+¿Qué pasa si no se notifica una ausencia?  
+	Puede haber sanciones por incumplimiento.
+
+POLÍTICA DE PRÉSTAMOS
+
+¿En qué casos se otorga un anticipo?  
+	Solo por calamidad doméstica comprobada.
+
+¿Quiénes pueden solicitar un préstamo?  
+	Colaboradores con más de 3 meses en la empresa.
+
+¿Cuál es el monto y plazo máximo?  
+	Hasta $300, con un plazo de 3 meses.
+
+¿Quién aprueba los anticipos?  
+	Desarrollo Organizacional. Si no cumple requisitos, Subgerencia General.
+
+¿Cuánto tiempo tarda en aprobarse un ticket?  
+	Hasta 15 días hábiles después de la preaprobación.
+
+¿Qué pasa si no se entregan justificativos del préstamo?  
+	Se aplicarán sanciones y se bloquearán futuros préstamos.
+
+¿Quién aprueba excepciones?  
+	DO, Subgerencia General y/o Gerencia General.
+
+PRÉSTAMO BGR
+
+¿Cuáles son los requisitos para préstamo BGR?  
+	- 12 meses de estabilidad laboral  
+	- Contrato indefinido  
+	- Edad entre 22 y 69 años  
+	- Cédula y papeleta de votación actualizadas  
+	- Firmar con esfero azul y escanear documento BGR
+
+¿Dónde solicitar el préstamo BGR?  
+	Canal de Beneficios en Apolo.
+
+Pasos para solicitar:
+	1. Mínimo 3 meses consecutivos en la empresa  
+	2. Adjuntar documentos solicitados  
+	3. Firmar con azul y escanear
+
+¿Quién aprueba el préstamo BGR?  
+	Gerencia de Desarrollo Organizacional (DO) y asesor de crédito del BGR.
+
+POLÍTICA DE VACACIONES (PREGUNTAS)
+
+¿Cuántos días de vacaciones tiene un colaborador desde el sexto año?  
+	15 días, más 1 día adicional por cada año hasta 30 días.
+
+¿Se pueden dividir las vacaciones?  
+	Sí, en dos períodos. Uno debe ser de al menos 7 días consecutivos.
+
+¿Cuándo se cancelan las vacaciones?  
+	Solo en caso de desvinculación.
+
+¿Quién aprueba las vacaciones?  
+	El jefe inmediato, según necesidad operativa.
+
+¿Cuánto tiempo de anticipación requiere la solicitud?  
+	Mínimo 5 días, máximo 30 días antes.
+
+¿Qué herramienta se usa para gestionar vacaciones?  
+	SGDO Twiins.
+
+¿Qué sanción aplica si se toman vacaciones sin registrarlas?  
+	Multa del 10 % del salario básico unificado y llamado de atención.
+
+¿Se puede pedir anticipo de vacaciones?  
+	Sí, si hay saldo disponible y prioridad a quienes tengan acumulado.
+
+¿Quién comunica cambios/interrupciones de vacaciones?  
+	El jefe inmediato debe comunicar a DO por correo, máximo en 30 días.
+	
+	
